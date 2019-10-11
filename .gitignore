@@ -102,3 +102,15 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+bitcoin-historical-data.zip
+Border_Crossing_Entry_Data.csv
+desktop.ini
+**.zip
+pandas_workshop.ipynb
+simple_weather.csv
+Untitled.*
+**.pdf
+weather_simple.json
+weather_simple.csv
