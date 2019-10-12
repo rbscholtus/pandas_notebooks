@@ -13,3 +13,11 @@ https://www.anaconda.com/distribution/#download-section
 More information about the event is available at:
 
 https://www.eventbrite.com/e/opentechsummit-vietnam-2019-tickets-71898545485
+
+The avocado prices dataset is available at:
+
+https://www.kaggle.com/neuromusic/avocado-prices
+
+The happiness dataset is part of the World Happiness Report and is available at:
+
+https://s3.amazonaws.com/dq-content/blog/pivot_table/data.csv
